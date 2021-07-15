@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Full stack web development
-- 🌱 I’m currently learning ...nodeJS
+- 🌱 I’m currently learning ...NodeJs,ReactJs and mongoDB 
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
